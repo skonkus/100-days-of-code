@@ -20,3 +20,13 @@
 
 **Link(s) to work**
 1. http://jsforcats.com/
+
+### Day 3: January 8, 2020, Tuesday
+
+**Today's Progress**: ran through tutorial on youtube. I installed visual code and node.js.
+
+**Thoughts**  Well, I am understanding github a bit better today. The youtube video was very informative, and entering the code and looking at the results in the console was very helpful. I am no longer confused with the basics now and this video really helped to cement what I learned the past 2 days into memory. I am feeling much better now.
+
+**Link(s) to work**
+1. https://www.youtube.com/watch?v=W6NZfCO5SIk
+2. http://127.0.0.1:5500/index.html
